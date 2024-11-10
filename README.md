@@ -1,22 +1,22 @@
-Car Pool Cost Calculator
+Car Pool Cost Calculator <br>
 
-Overview
+Overview<br>
 This Java program calculates the daily cost of driving to work, including gasoline, parking fees, and tolls. By prompting the user to enter specific driving and cost details, the program provides an estimate of daily commuting expenses.
 
-Features
-Prompts the user to enter daily driving details:
-Total miles driven per day
-Cost per gallon of gasoline
-Average miles per gallon of gasoline
-Daily parking fees
-Daily toll costs
-Calculates and displays the total daily cost of commuting.
+Features<br>
+Prompts the user to enter daily driving details:<br>
+Total miles driven per day<br>
+Cost per gallon of gasoline<br>
+Average miles per gallon of gasoline<br>
+Daily parking fees<br>
+Daily toll costs<br>
+Calculates and displays the total daily cost of commuting.<br>
 
-Getting Started
-Prerequisites
-Java Development Kit (JDK) installed (preferably JDK 8 or above)
-A Java-compatible IDE or terminal to run the program
+Getting Started<br>
+Prerequisites<br>
+Java Development Kit (JDK) installed (preferably JDK 8 or above)<br>
+A Java-compatible IDE or terminal to run the program<br>
 
-Installation
-Clone or download this repository.
-Open the project in your IDE or navigate to the directory in a terminal.
+Installation<br>
+Clone or download this repository.<br>
+Open the project in your IDE or navigate to the directory in a terminal.<br>
